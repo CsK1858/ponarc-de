@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 68" width="400" height="68">
+  <path d="M0,6 L19,6 Q24,6 24,11 L24,33" fill="none" stroke="#0ea5e9" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M0,6 L0,28 Q0,33 5,33 L24,33" fill="none" stroke="#0ea5e9" stroke-width="2.8" stroke-linecap="round" opacity=".25"/>
+  <text x="38" y="50" font-family="'Urbanist', sans-serif" font-weight="600" font-size="36" fill="#f0ece6" letter-spacing="4">VISIO</text>
+  <text x="162" y="50" font-family="'Urbanist', sans-serif" font-weight="600" font-size="36" fill="#f0ece6" letter-spacing="4">MOD</text>
+  <line x1="162" y1="59" x2="255" y2="59" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"/>
+</svg>

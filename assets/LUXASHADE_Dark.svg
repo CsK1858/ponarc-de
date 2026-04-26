@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 68" width="440" height="68">
+  <!-- Icon: Gold L -->
+  <path d="M0,6 L0,28 Q0,33 5,33 L24,33" fill="none" stroke="#c9963b" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M0,6 L19,6 Q24,6 24,11" fill="none" stroke="#c9963b" stroke-width="2.8" stroke-linecap="round" opacity=".25"/>
+  <line x1="1" y1="40" x2="22" y2="40" stroke="#c9963b" stroke-width="1.4" stroke-linecap="round" opacity=".35"/>
+  <line x1="4" y1="47" x2="18" y2="47" stroke="#c9963b" stroke-width="1" stroke-linecap="round" opacity=".18"/>
+  <!-- Text -->
+  <text x="38" y="50" font-family="'Urbanist', sans-serif" font-weight="600" font-size="36" fill="#1c1c1e" letter-spacing="4">LUXA</text>
+  <text x="148" y="50" font-family="'Urbanist', sans-serif" font-weight="600" font-size="36" fill="#1c1c1e" letter-spacing="4">SHADE</text>
+  <!-- Underline under SHADE -->
+  <line x1="148" y1="59" x2="290" y2="59" stroke="#c9963b" stroke-width="2" stroke-linecap="round"/>
+</svg>

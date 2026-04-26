@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 60" width="340" height="60">
+  <text x="0" y="48" font-family="'Urbanist', sans-serif" font-weight="600" font-size="40" fill="white" letter-spacing="5">P</text>
+  <path d="M28,17 L54,17 Q58,17 58,21 L58,47" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M28,17 L28,43 Q28,47 32,47 L58,47" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="64" y="48" font-family="'Urbanist', sans-serif" font-weight="600" font-size="40" fill="white" letter-spacing="5">NARC</text>
+</svg>
